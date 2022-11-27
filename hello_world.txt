@@ -1,1 +1,1 @@
-Hello World!
+Hello World! My second attempt at editing via Git.
